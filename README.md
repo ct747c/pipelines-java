@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/chandraprakash061995/Firstdemo%20project/_apis/build/status/ct747c.pipelines-java?branchName=master)](https://dev.azure.com/chandraprakash061995/Firstdemo%20project/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
